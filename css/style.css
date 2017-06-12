@@ -22,5 +22,6 @@ body h1, body h3, .navbar-brand {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img{
     margin: auto;
+    min-height: 500px;
     max-height: 500px;
 }
