@@ -1,0 +1,26 @@
+body {
+  background-image: url('../img/sandblasted.jpg');
+}
+
+body h1, body h3, .navbar-brand {
+  font-family: 'Tangerine', Arial, sans-serif;
+  font-weight: bold;
+}
+
+#mainPhoto {
+    width: 200px;
+    height: 200px;
+}
+#aboutInfo {
+  margin: 0 15%;
+}
+#myCarousel {
+    width: 90%;
+    margin: auto;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img{
+    margin: auto;
+    max-height: 500px;
+}
