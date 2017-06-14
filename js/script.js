@@ -6,6 +6,7 @@ $(document).ready(function(){
         $("#content-div").load("home.html");
         $("li").removeClass("active");
         $("#home-nav").addClass("active");
+        $("#")
     });
     $("#about-nav").click(function(){
         $("#content-div").load("about.html");
